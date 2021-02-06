@@ -10,8 +10,8 @@ I am Bani
 
 I like
 
-1-pizza
-2-loobia
-3-bastani
+1-soup
+2-kentaki
+3-havig
 
 I enjoy being here with you
