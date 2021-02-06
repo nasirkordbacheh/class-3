@@ -6,7 +6,7 @@ season -> fasl
 vs
 session -> jalase
 
-I am Bani
+I am nasir
 
 I like
 
@@ -14,4 +14,4 @@ I like
 2-kentaki
 3-havig
 
-I enjoy being here with you
+I enjoy being here with they
